@@ -1,0 +1,151 @@
+*{
+	margin:0px;
+	padding:0px;
+	
+	
+}
+body{
+	
+	background-color:rgb(129, 221, 129);
+	
+	
+}
+.header{
+	
+	background-color:rgb(75, 166, 241);
+	height:200px;
+	width:100%;
+	
+	
+}
+h1{
+	text-align:center;
+	margin-top: 60px;
+}
+<!--- logo{
+	height:150px;
+	width:150px;
+	background-color:black;
+	border-radius:50%;
+	float:left;
+	margin-left:5px;
+	margin-top:45px;
+	-->
+	
+}
+.logo img{
+		height:150px;
+	width:150px;
+	
+	border-radius:50%;
+	float:left;
+	margin-left:5px;
+	margin-top:45px;
+}
+.menu{
+	height:40px;
+	width:100%;
+	background-color:blue;
+	margin-top:5px;
+	
+}
+.slider{
+	height:500px;
+	width:80%;
+	<!---background-color:yellow;-->
+	margin-top:5px;
+	margin-left:3px;
+	float:right;
+	overflow:hidden;
+}
+.slider img{
+	
+	height:100%;
+	width:100%;
+	
+	
+}
+
+.left{
+	
+	height:469px;
+	width:19%;
+	background-color:#57a6db;
+	float:left;
+	overflow:hidden;
+		margin-top:31px;
+	margin-left:3px;
+}
+.left h4{
+	margin-top: 5px;
+	text-align: center;
+	color: bisque;
+
+
+}
+h2{
+	text-align: center;
+}
+.post_box{
+	height:300px;
+	width:32.5%;
+		margin-top:5px;
+	margin-left:10px;
+		border-radius:5px;
+		background-color:#1198287a;
+		float:left;
+		margin-bottom:5px;
+		
+}
+.post_box img{
+	height:80px;
+	width: 60px;
+}
+/* .footer{
+	
+	height:300px;
+	width:100%;
+	margin-top:5px;
+	overflow:hidden;
+} */
+
+.About{
+	height: 200px;
+	width: 49%;
+	background-color:#4cb61b;
+	overflow:hidden;
+	float: left;
+	margin-left: 10px;
+}
+
+.Contact{
+	height: 200px;
+	width: 49%;
+		background-color:#4cb61b;
+	float: left;
+	margin-left: 10px;
+
+}
+.contact p{
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
